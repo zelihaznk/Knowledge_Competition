@@ -265,8 +265,6 @@ namespace Knowledge_Competition
                 MessageBox.Show("True:" + dogru +"\n" + "False:" + yanlis);
                 
             }
-
-
         }
     }
 }
